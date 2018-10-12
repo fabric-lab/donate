@@ -3,17 +3,8 @@
 
 | 赞助者         | 捐助项目         | 数额       |
 | :------------  |:----------------: | ---------: |
-|斯特瑞         | Mojo-Weixin   | 66          |
-|FeiFree        | Mojo-Webqq  | 200        |
-|王*鹏           | Mojo-Weixin   | 1500      |
-|宋*雷           | Mojo-Weixin   | 100        |
-|Michikora    | -                     | 10          |
-|忠伟             | -                     | 100        |
-|少卿             | -                     | 10          |
-|icecream     | Mojo-Weixin   |  10         | 
-|动感光波      | Mojo-Webqq   | 6.66       |
-|海波            | Mojo-Webqq   | 8.88       |
-|桔子            | Mojo-Webqq   | 8.88       |
-|Never         | Mojo-Weixin    | 100        |
-|Leo             | -                      | 100        |
-|Finder         | Mojo-Webqq   | 50          |
+|*鱼         | fabric-manager   | 66          |
+|FeiFree        | fabric-manager  | 200        |
+|王*鹏           | fabric-manager   | 1500      |
+|宋*雷           | fabric-manager   | 100        |
+|*俊     | fabric-manager    |  10         | 
