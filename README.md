@@ -3,8 +3,8 @@
 
 | 赞助者         | 捐助项目         | 数额       |
 | :------------  |:----------------: | ---------: |
-|*鱼         | fabric-manager   | 66          |
-|FeiFree        | fabric-manager  | 200        |
+|*鱼         | fabric-manager   | 88          |
+|张*武        | fabric-manager  | 200        |
 |王*鹏           | fabric-manager   | 1500      |
 |宋*雷           | fabric-manager   | 100        |
-|*俊     | fabric-manager    |  10         | 
+|*俊     | fabric-manager    |  8.8         | 
